@@ -1,3 +1,23 @@
+# **About Me**
+## _Info_
+
+* My name is Kristian Yotsov
+* I'm 18 years old
+* I'm living in Bulgaria 
+---
+## _I'm currently learning_
+
+* Python
+* HTML&CSS
+* Lua
+* Javascript
+* Django
+---
+## _Contacts_
+
+- 📫 You can contact me on Discord: kris40_
+---
+
 ![ Alt text](pepefrg-55.gif)
 <!--
 **Kristian-Y/Kristian-Y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
