@@ -2,7 +2,7 @@
 ## _Info_
 
 * My name is Kristian Yotsov
-* I'm 18 years old
+* I'm 19 years old
 * I'm living in Bulgaria 
 ---
 ## _I'm currently learning_
