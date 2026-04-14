@@ -2,6 +2,7 @@
 ## _Info_
 
 * My name is Kristian Yotsov
+* Software Developer at SAP
 ---
 ## _I'm currently learning_
 
