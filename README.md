@@ -2,16 +2,14 @@
 ## _Info_
 
 * My name is Kristian Yotsov
-* I'm 19 years old
-* I'm living in Bulgaria 
 ---
 ## _I'm currently learning_
 
 * Python
-* HTML&CSS
+* Perl
 * Lua
 * Javascript
-* Django
+* C / C++
 ---
 ## _Contacts_
 
